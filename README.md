@@ -1,3 +1,6 @@
+Christopher
+Erwann
+
 # Minesweeper
 ## Configuration du projet
 Se placer avec le terminal dans la où le fichier **CMakeLists.txt** se trouve et taper la commande suivante :
